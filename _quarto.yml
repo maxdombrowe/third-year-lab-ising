@@ -9,6 +9,8 @@ website:
         text: Home
       - href: code/ising.ipynb
         text: "minimal code"
+      - href: dummy.qmd
+        text: dummy
 
 format:
   html:
