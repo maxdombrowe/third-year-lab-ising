@@ -1,0 +1,1 @@
+Sitemap: https://maxdombrowe.github.io/third-year-lab-ising/sitemap.xml
